@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: turquoise;
+    text-shadow:0dvb;
+    text-underline-position: auto;
+}
+body{
+    background-image: url(c:\Users\ELCOT\Downloads\pic.jpg);
+    background-size: 100%;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    color: white;
+}
